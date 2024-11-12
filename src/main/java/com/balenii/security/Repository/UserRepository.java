@@ -1,4 +1,4 @@
-package com.balenii.security.Repository;
+tr4package com.balenii.security.Repository;
 
 import com.balenii.security.model.User;
 import org.springframework.data.mongodb.repository.MongoRepository;
